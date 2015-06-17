@@ -1,0 +1,22 @@
+[
+{
+    "pk": 3, 
+    "model": "dropbox.folder", 
+    "fields": {
+        "date_created": "2015-06-09T20:13:33.196Z", 
+        "parent_folder": null, 
+        "user": 1, 
+        "title": "fsed"
+    }
+},
+{
+    "pk": 7, 
+    "model": "dropbox.folder", 
+    "fields": {
+        "date_created": "2015-06-10T05:12:58.442Z", 
+        "parent_folder": null, 
+        "user": 1, 
+        "title": "red"
+    }
+}
+]
